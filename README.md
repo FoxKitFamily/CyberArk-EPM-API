@@ -1,2 +1,3 @@
 # CyberArk-EPM-API
-Custom CyberArk EPM API Commands for personal regular use and situational needs
+Custom CyberArk EPM API Commands
+These scripts are intended for use in specific situations and using names and standards as determined by myself and my organization.
